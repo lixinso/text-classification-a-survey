@@ -1,4 +1,4 @@
-# Text Classification A Survey
+# Text Classification Algorithms - A Survey
 
 ## Feature Extraction
 
